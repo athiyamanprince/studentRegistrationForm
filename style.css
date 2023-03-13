@@ -1,0 +1,25 @@
+.header {
+    text-align: center;
+    color :#4169e1;
+    padding-bottom: 5%;
+}
+.lb{
+    padding: 5% 2%;
+}
+
+.tab{
+    width : 70%;
+}
+.td2 {
+    padding: 10px;
+}
+.table{
+    padding-top: 3%;
+    margin:2% 2%;
+    background-color: #4169e1;
+}
+
+.td3 input[type="text"] {
+    width:50%;
+    height: 100px;
+}
